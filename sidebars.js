@@ -215,6 +215,7 @@ const sidebars = {
         'build/tutorials/buy-me-a-coffee',
         'build/tutorials/connecting-metamask',
         'build/tutorials/connecting-remix',
+        'build/tutorials/kaikas-dapp-integration',
         'build/tutorials/migrating-ethereum-app-to-klaytn',
         // {type: 'doc', label: 'Verify Contracts', id: 'build/tutorials/verifying-contracts'},
       ],
@@ -335,7 +336,8 @@ const sidebars = {
           ],
         },
         'nodes/core-cell/monitoring-setup',
-        'nodes/core-cell/h-a-setup',            
+        'nodes/core-cell/h-a-setup',
+        'nodes/core-cell/node-security',
       ],
     },
     {
